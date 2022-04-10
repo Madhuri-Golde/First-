@@ -12,6 +12,7 @@ main()
 	div=a/b;
 	
 	cout<<"sum= "<<add<<"\nsub= "<<sub<<"\nmul= "<<mul<<"\ndiv= "<<div;
+	cout<<"New changes to the file";
 	
 
 }
